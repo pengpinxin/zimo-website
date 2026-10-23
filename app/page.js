@@ -1,3 +1,4 @@
+'use client';
 export default function Home() {
   return (
     <main className="min-h-screen bg-[#1a1614] text-[#f4eee1] font-sans">
@@ -195,4 +196,3 @@ export default function Home() {
     </main>
   );
 }
-// update
